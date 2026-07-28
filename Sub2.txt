@@ -1,0 +1,1 @@
+vless://0e020e5d-40e1-423d-8730-ea454b2d5a4b@104.16.158.142:443?fp=chrome&security=tls&path=%2F&encryption=none&type=ws&insecure=0&allowInsecure=0&sni=nova-orbit-core-e7a0.nova-c48c93.workers.dev&host=nova-orbit-core-e7a0.nova-c48c93.workers.dev#ZERYNX%20001
